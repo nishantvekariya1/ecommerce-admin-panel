@@ -78,7 +78,7 @@
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.216);
 
         >form {
-            @include flex(column, unset, center, 2rem);
+            @include flex(column, unset, center, 1.70rem);
 
             >h2 {
                 text-transform: uppercase;
@@ -130,7 +130,7 @@
         }
 
         >h5 {
-            margin: 2rem 0 0 0.5rem;
+            margin: 1rem 0 0 0.5rem;
             font-size: 1.1rem;
             font-weight: 700;
         }
