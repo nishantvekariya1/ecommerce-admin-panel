@@ -1,30 +1,55 @@
-# React + TypeScript + Vite
+# Ecommerce Admin Panel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an ecommerce admin panel built using React.js and TypeScript. It uses static data and is designed to provide a functional frontend for managing ecommerce operations.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
 
-## Expanding the ESLint configuration
+## Demo
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/1.png)
 
-- Configure the top-level `parserOptions` property like this:
+## Features
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- Dashboard with summary statistics
+- Product management (add, edit, delete, view)
+- Order management (view orders, update status)
+- User management (view users, delete users)
+- Static data for demonstration purposes
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Technologies Used
+
+- **React.js**: A JavaScript library for building user interfaces
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript
+- **React Router**: For navigation and routing
+- **React Chart**: For different charts
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or later)
+- npm
+
+### Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/nishantvekariya1/ecommerce-admin-panel.git
+    ```
+
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+3. Start the development server:
+    ```bash
+    npm run dev
+    ```
+
+4. Open your browser and navigate to `http://localhost:3000` to view the admin panel.
