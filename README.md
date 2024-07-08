@@ -12,6 +12,13 @@ This project is an ecommerce admin panel built using React.js and TypeScript. It
 ## Demo
 
 ![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/1.png)
+![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/2.png)
+![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/3.png)
+![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/4.png)
+![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/5.png)
+![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/6.png)
+![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/7.png)
+![Demo Screenshot](https://github.com/nishantvekariya1/ecommerce-admin-panel/blob/master/Screenshots/8.png)
 
 ## Features
 
