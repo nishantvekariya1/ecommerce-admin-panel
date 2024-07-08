@@ -59,4 +59,4 @@ This project is an ecommerce admin panel built using React.js and TypeScript. It
     npm run dev
     ```
 
-4. Open your browser and navigate to `http://localhost:3000` to view the admin panel.
+4. Open your browser and navigate to `http://localhost:5173` to view the admin panel.
